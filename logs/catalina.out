@@ -1,0 +1,235 @@
+11-Feb-2021 17:45:51.341 INFO [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider specified by jar:file:/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/lib/openejb-core-eclipselink-8.0.5.jar!/META-INF/org.apache.openejb.persistence.PersistenceBootstrap.provider
+11-Feb-2021 17:45:51.642 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version name:   Apache Tomcat (TomEE)/9.0.39 (8.0.5)
+11-Feb-2021 17:45:51.642 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Oct 6 2020 14:11:46 UTC
+11-Feb-2021 17:45:51.642 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version number: 9.0.39.0
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Linux
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            5.8.0-38-generic
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             /usr/lib/jvm/java-8-openjdk-amd64/jre
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_275-8u275-b01-0ubuntu1~20.04-b01
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Private Build
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:51.643 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/conf/logging.properties
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -javaagent:/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/lib/openejb-javaagent.jar
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+11-Feb-2021 17:45:51.644 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+11-Feb-2021 17:45:51.645 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dignore.endorsed.dirs=
+11-Feb-2021 17:45:51.645 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:51.645 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:51.645 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/temp
+11-Feb-2021 17:45:51.647 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib]
+11-Feb-2021 17:45:52.197 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8081"]
+11-Feb-2021 17:45:52.613 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+11-Feb-2021 17:45:52.759 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+11-Feb-2021 17:45:52.759 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Thu Feb 11 17:45:52 MSK 2021
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2018 (C) Apache OpenEJB Project, All Rights Reserved.
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 8.0.5
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20201117
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 08:18
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:52.760 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5
+11-Feb-2021 17:45:52.764 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@15ff3e9e
+11-Feb-2021 17:45:52.768 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+11-Feb-2021 17:45:52.815 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is '/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/conf/tomee.xml'
+11-Feb-2021 17:45:52.877 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+11-Feb-2021 17:45:52.880 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+11-Feb-2021 17:45:52.881 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=jdbc/uldbs, type=Resource, provider-id=Default JDBC Database)
+11-Feb-2021 17:45:52.885 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+11-Feb-2021 17:45:52.889 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+11-Feb-2021 17:45:52.987 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+11-Feb-2021 17:45:53.086 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=jdbc/uldbs)
+11-Feb-2021 17:45:53.805 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+11-Feb-2021 17:45:53.990 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+11-Feb-2021 17:45:54.064 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+11-Feb-2021 17:45:54.064 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+11-Feb-2021 17:45:54.064 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+11-Feb-2021 17:45:54.064 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+11-Feb-2021 17:45:54.064 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server initialization in [2683] milliseconds
+11-Feb-2021 17:45:54.094 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+11-Feb-2021 17:45:54.095 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+11-Feb-2021 17:45:54.107 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting service [Catalina]
+11-Feb-2021 17:45:54.107 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/9.0.39 (8.0.5)]
+11-Feb-2021 17:45:54.124 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deploying web application archive [/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back.war]
+11-Feb-2021 17:45:54.132 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /uldbs-back
+11-Feb-2021 17:45:54.478 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back
+11-Feb-2021 17:45:55.073 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb GoodFacade: EjbDeployment(deployment-id=GoodFacade)
+11-Feb-2021 17:45:55.074 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb StatusHistoryFacade: EjbDeployment(deployment-id=StatusHistoryFacade)
+11-Feb-2021 17:45:55.074 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb UserFacade: EjbDeployment(deployment-id=UserFacade)
+11-Feb-2021 17:45:55.075 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb MessageFacade: EjbDeployment(deployment-id=MessageFacade)
+11-Feb-2021 17:45:55.075 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb UserService: EjbDeployment(deployment-id=UserService)
+11-Feb-2021 17:45:55.075 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb RequestFacade: EjbDeployment(deployment-id=RequestFacade)
+11-Feb-2021 17:45:55.075 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ChatService: EjbDeployment(deployment-id=ChatService)
+11-Feb-2021 17:45:55.076 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb FeedbackFacade: EjbDeployment(deployment-id=FeedbackFacade)
+11-Feb-2021 17:45:55.076 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb ChatFacade: EjbDeployment(deployment-id=ChatFacade)
+11-Feb-2021 17:45:55.076 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb RequestService: EjbDeployment(deployment-id=RequestService)
+11-Feb-2021 17:45:55.077 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb GoodService: EjbDeployment(deployment-id=GoodService)
+11-Feb-2021 17:45:55.077 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb FileService: EjbDeployment(deployment-id=FileService)
+11-Feb-2021 17:45:55.077 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb MessageService: EjbDeployment(deployment-id=MessageService)
+11-Feb-2021 17:45:55.077 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb StatusHistoryService: EjbDeployment(deployment-id=StatusHistoryService)
+11-Feb-2021 17:45:55.078 INFO [main] org.apache.openejb.config.InitEjbDeployments.deploy Auto-deploying ejb FeedbackService: EjbDeployment(deployment-id=FeedbackService)
+11-Feb-2021 17:45:55.086 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Stateless Container, type=Container, provider-id=Default Stateless Container)
+11-Feb-2021 17:45:55.087 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean GoodFacade: Container(type=STATELESS, id=Default Stateless Container)
+11-Feb-2021 17:45:55.087 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Stateless Container)
+11-Feb-2021 17:45:55.104 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+11-Feb-2021 17:45:55.105 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean uldbs-back.Comp203472514: Container(type=MANAGED, id=Default Managed Container)
+11-Feb-2021 17:45:55.105 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+11-Feb-2021 17:45:55.117 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/temp for stateful session passivation
+11-Feb-2021 17:45:55.131 INFO [main] org.apache.openejb.config.AutoConfig.deploy Configuring PersistenceUnit(name=testPU)
+11-Feb-2021 17:45:55.133 INFO [main] org.apache.openejb.config.AutoConfig.logAutoCreateResource Auto-creating a Resource with id 'jdbc/uldbsNonJta' of type 'DataSource for 'testPU'.
+11-Feb-2021 17:45:55.133 INFO [main] org.apache.openejb.config.AutoConfig.deploy Configuring Service(id=jdbc/uldbsNonJta, type=Resource, provider-id=jdbc/uldbs)
+11-Feb-2021 17:45:55.133 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=jdbc/uldbsNonJta)
+11-Feb-2021 17:45:55.409 INFO [main] org.apache.openejb.config.AutoConfig.setNonJtaDataSource Adjusting PersistenceUnit testPU <non-jta-data-source> to Resource ID 'jdbc/uldbsNonJta' from 'null'
+11-Feb-2021 17:45:55.448 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back" loaded.
+11-Feb-2021 17:45:55.453 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: /home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back
+11-Feb-2021 17:45:56.411 INFO [main] org.apache.openejb.assembler.classic.ReloadableEntityManagerFactory.createDelegate PersistenceUnit(name=testPU, provider=org.eclipse.persistence.jpa.PersistenceProvider) - provider time 923ms
+11-Feb-2021 17:45:56.558 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=GoodFacadeLocalBean) --> Ejb(deployment-id=GoodFacade)
+11-Feb-2021 17:45:56.558 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/GoodFacade!com.penzasoft.uldbs.facade.GoodFacade) --> Ejb(deployment-id=GoodFacade)
+11-Feb-2021 17:45:56.560 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/GoodFacade) --> Ejb(deployment-id=GoodFacade)
+11-Feb-2021 17:45:56.561 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=StatusHistoryFacadeLocalBean) --> Ejb(deployment-id=StatusHistoryFacade)
+11-Feb-2021 17:45:56.561 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/StatusHistoryFacade!com.penzasoft.uldbs.facade.StatusHistoryFacade) --> Ejb(deployment-id=StatusHistoryFacade)
+11-Feb-2021 17:45:56.561 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/StatusHistoryFacade) --> Ejb(deployment-id=StatusHistoryFacade)
+11-Feb-2021 17:45:56.562 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=UserFacadeLocalBean) --> Ejb(deployment-id=UserFacade)
+11-Feb-2021 17:45:56.562 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/UserFacade!com.penzasoft.uldbs.facade.UserFacade) --> Ejb(deployment-id=UserFacade)
+11-Feb-2021 17:45:56.563 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/UserFacade) --> Ejb(deployment-id=UserFacade)
+11-Feb-2021 17:45:56.563 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=MessageFacadeLocalBean) --> Ejb(deployment-id=MessageFacade)
+11-Feb-2021 17:45:56.564 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/MessageFacade!com.penzasoft.uldbs.facade.MessageFacade) --> Ejb(deployment-id=MessageFacade)
+11-Feb-2021 17:45:56.564 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/MessageFacade) --> Ejb(deployment-id=MessageFacade)
+11-Feb-2021 17:45:56.565 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=UserServiceLocalBean) --> Ejb(deployment-id=UserService)
+11-Feb-2021 17:45:56.565 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/UserService!com.penzasoft.uldbs.service.UserService) --> Ejb(deployment-id=UserService)
+11-Feb-2021 17:45:56.565 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/UserService) --> Ejb(deployment-id=UserService)
+11-Feb-2021 17:45:56.566 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=RequestFacadeLocalBean) --> Ejb(deployment-id=RequestFacade)
+11-Feb-2021 17:45:56.566 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/RequestFacade!com.penzasoft.uldbs.facade.RequestFacade) --> Ejb(deployment-id=RequestFacade)
+11-Feb-2021 17:45:56.567 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/RequestFacade) --> Ejb(deployment-id=RequestFacade)
+11-Feb-2021 17:45:56.567 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=ChatServiceLocalBean) --> Ejb(deployment-id=ChatService)
+11-Feb-2021 17:45:56.568 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/ChatService!com.penzasoft.uldbs.service.ChatService) --> Ejb(deployment-id=ChatService)
+11-Feb-2021 17:45:56.568 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/ChatService) --> Ejb(deployment-id=ChatService)
+11-Feb-2021 17:45:56.568 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=FeedbackFacadeLocalBean) --> Ejb(deployment-id=FeedbackFacade)
+11-Feb-2021 17:45:56.569 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FeedbackFacade!com.penzasoft.uldbs.facade.FeedbackFacade) --> Ejb(deployment-id=FeedbackFacade)
+11-Feb-2021 17:45:56.569 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FeedbackFacade) --> Ejb(deployment-id=FeedbackFacade)
+11-Feb-2021 17:45:56.570 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=ChatFacadeLocalBean) --> Ejb(deployment-id=ChatFacade)
+11-Feb-2021 17:45:56.570 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/ChatFacade!com.penzasoft.uldbs.facade.ChatFacade) --> Ejb(deployment-id=ChatFacade)
+11-Feb-2021 17:45:56.570 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/ChatFacade) --> Ejb(deployment-id=ChatFacade)
+11-Feb-2021 17:45:56.571 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=RequestServiceLocalBean) --> Ejb(deployment-id=RequestService)
+11-Feb-2021 17:45:56.572 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/RequestService!com.penzasoft.uldbs.service.RequestService) --> Ejb(deployment-id=RequestService)
+11-Feb-2021 17:45:56.572 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/RequestService) --> Ejb(deployment-id=RequestService)
+11-Feb-2021 17:45:56.572 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=GoodServiceLocalBean) --> Ejb(deployment-id=GoodService)
+11-Feb-2021 17:45:56.573 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/GoodService!com.penzasoft.uldbs.service.GoodService) --> Ejb(deployment-id=GoodService)
+11-Feb-2021 17:45:56.573 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/GoodService) --> Ejb(deployment-id=GoodService)
+11-Feb-2021 17:45:56.574 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=FileServiceLocalBean) --> Ejb(deployment-id=FileService)
+11-Feb-2021 17:45:56.574 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FileService!com.penzasoft.uldbs.service.FileService) --> Ejb(deployment-id=FileService)
+11-Feb-2021 17:45:56.574 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FileService) --> Ejb(deployment-id=FileService)
+11-Feb-2021 17:45:56.575 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=MessageServiceLocalBean) --> Ejb(deployment-id=MessageService)
+11-Feb-2021 17:45:56.575 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/MessageService!com.penzasoft.uldbs.service.MessageService) --> Ejb(deployment-id=MessageService)
+11-Feb-2021 17:45:56.575 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/MessageService) --> Ejb(deployment-id=MessageService)
+11-Feb-2021 17:45:56.576 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=StatusHistoryServiceLocalBean) --> Ejb(deployment-id=StatusHistoryService)
+11-Feb-2021 17:45:56.576 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/StatusHistoryService!com.penzasoft.uldbs.service.StatusHistoryService) --> Ejb(deployment-id=StatusHistoryService)
+11-Feb-2021 17:45:56.577 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/StatusHistoryService) --> Ejb(deployment-id=StatusHistoryService)
+11-Feb-2021 17:45:56.577 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=FeedbackServiceLocalBean) --> Ejb(deployment-id=FeedbackService)
+11-Feb-2021 17:45:56.577 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FeedbackService!com.penzasoft.uldbs.service.FeedbackService) --> Ejb(deployment-id=FeedbackService)
+11-Feb-2021 17:45:56.578 INFO [main] org.apache.openejb.assembler.classic.JndiBuilder.bind Jndi(name=global/uldbs-back/FeedbackService) --> Ejb(deployment-id=FeedbackService)
+11-Feb-2021 17:45:56.646 INFO [main] org.apache.openejb.cdi.CdiBuilder.initSingleton Existing thread singleton service in SystemInstance(): org.apache.openejb.cdi.ThreadSingletonServiceImpl@15ff3e9e
+11-Feb-2021 17:45:56.812 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container is starting...
+11-Feb-2021 17:45:56.823 INFO [main] org.apache.webbeans.plugins.PluginLoader.startUp Adding OpenWebBeansPlugin : [CdiPlugin]
+11-Feb-2021 17:45:56.828 INFO [main] org.apache.openejb.cdi.CdiScanner.handleBda Using annotated mode for file:/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back/WEB-INF/classes/ looking all classes to find CDI beans, maybe think to add a beans.xml if not there or add the jar to exclusions.list
+11-Feb-2021 17:45:57.854 INFO [main] org.apache.webbeans.config.BeansDeployer.validateInjectionPoints All injection points were validated successfully.
+11-Feb-2021 17:45:57.865 INFO [main] org.apache.openejb.cdi.OpenEJBLifecycle.startApplication OpenWebBeans Container has started, it took 1052 ms.
+11-Feb-2021 17:45:57.920 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=GoodFacade, ejb-name=GoodFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.920 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=FileService, ejb-name=FileService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.920 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=UserService, ejb-name=UserService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.921 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=FeedbackFacade, ejb-name=FeedbackFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.921 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=RequestFacade, ejb-name=RequestFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.921 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=RequestService, ejb-name=RequestService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.922 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=MessageService, ejb-name=MessageService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.922 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=MessageFacade, ejb-name=MessageFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.922 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=StatusHistoryFacade, ejb-name=StatusHistoryFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.923 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=ChatFacade, ejb-name=ChatFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.923 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=UserFacade, ejb-name=UserFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.928 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=FeedbackService, ejb-name=FeedbackService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.929 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=GoodService, ejb-name=GoodService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.929 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=StatusHistoryService, ejb-name=StatusHistoryService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.930 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Created Ejb(deployment-id=ChatService, ejb-name=ChatService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.950 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=GoodFacade, ejb-name=GoodFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.956 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=FileService, ejb-name=FileService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.963 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=UserService, ejb-name=UserService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.970 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=FeedbackFacade, ejb-name=FeedbackFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.976 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=RequestFacade, ejb-name=RequestFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.981 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=RequestService, ejb-name=RequestService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.987 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=MessageService, ejb-name=MessageService, container=Default Stateless Container)
+11-Feb-2021 17:45:57.993 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=MessageFacade, ejb-name=MessageFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:57.998 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=StatusHistoryFacade, ejb-name=StatusHistoryFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:58.004 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=ChatFacade, ejb-name=ChatFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:58.009 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=UserFacade, ejb-name=UserFacade, container=Default Stateless Container)
+11-Feb-2021 17:45:58.014 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=FeedbackService, ejb-name=FeedbackService, container=Default Stateless Container)
+11-Feb-2021 17:45:58.019 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=GoodService, ejb-name=GoodService, container=Default Stateless Container)
+11-Feb-2021 17:45:58.023 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=StatusHistoryService, ejb-name=StatusHistoryService, container=Default Stateless Container)
+11-Feb-2021 17:45:58.029 INFO [main] org.apache.openejb.assembler.classic.Assembler.startEjbs Started Ejb(deployment-id=ChatService, ejb-name=ChatService, container=Default Stateless Container)
+11-Feb-2021 17:45:58.037 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back)
+11-Feb-2021 17:45:58.388 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+11-Feb-2021 17:45:58.727 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using readers:
+11-Feb-2021 17:45:58.727 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@5b1e88f
+11-Feb-2021 17:45:58.727 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@79ecc507
+11-Feb-2021 17:45:58.727 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@6ef2f7ad
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@22d477c2
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@5e85c21b
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@41def031
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@1d289d3f
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@340cb97f
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@6a1568d6
+11-Feb-2021 17:45:58.728 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@11c88cca
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@1b37fbec
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using writers:
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.johnzon.jaxrs.WadlDocumentMessageBodyWriter@4a216eb4
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.nio.NioMessageBodyWriter@bb3ecfe
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@6a1568d6
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@5e85c21b
+11-Feb-2021 17:45:58.729 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@5b1e88f
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@79ecc507
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@6ef2f7ad
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@22d477c2
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@41def031
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@1d289d3f
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@340cb97f
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@11c88cca
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@1b37fbec
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using exception mappers:
+11-Feb-2021 17:45:58.730 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper@31aab981
+11-Feb-2021 17:45:58.731 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.EJBExceptionMapper@756b2d90
+11-Feb-2021 17:45:58.731 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.validation.ValidationExceptionMapper@26be9a6
+11-Feb-2021 17:45:58.733 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints REST Application: http://localhost:8081/uldbs-back/                                   -> org.apache.openejb.server.rest.InternalApplication@4b9dbf07
+11-Feb-2021 17:45:58.736 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/chat                               ->  EJB com.penzasoft.uldbs.service.ChatService         
+11-Feb-2021 17:45:58.736 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/chat/getChatsByClient              ->      List<Chat> getChatsByClientId(UUID) 
+11-Feb-2021 17:45:58.736 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/chat/getChatsByManager             ->      List<Chat> getChatsByManagerId(UUID)
+11-Feb-2021 17:45:58.736 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/feedback                           ->  EJB com.penzasoft.uldbs.service.FeedbackService     
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/feedback/getAllFeedbacks           ->      List<Feedback> getAllFeedbacks()         
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/feedback/addFeedback               ->      Boolean addFeedback(UUID, UUID, Feedback)
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/file                               ->  EJB com.penzasoft.uldbs.service.FileService         
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/file/{path}                        ->      Response getFile(String)
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/good                               ->  EJB com.penzasoft.uldbs.service.GoodService         
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/good/getFullInfoForGood/{good}     ->      FullGoodInfo getFullGoodInfo(UUID)
+11-Feb-2021 17:45:58.737 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/good/getGoods                      ->      List<Good> getMessagesForChat()   
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/good/getGoodsByPopularity          ->      List<Good> getGoodsByPopularity() 
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/good/getGoodsByRequests            ->      List<Good> getGoodsByRequests()   
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/good/createGood                    ->      Boolean createGood(UUID, Good)    
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/message                            ->  EJB com.penzasoft.uldbs.service.MessageService      
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/message/getMessagesForChat         ->      List<Message> getMessagesForChat(UUID) 
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/message/postMessage                ->      Boolean postMessage(UUID, UUID, String)
+11-Feb-2021 17:45:58.738 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/request                            ->  EJB com.penzasoft.uldbs.service.RequestService      
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/request/getAllUnfinished           ->      List<Request> getAllUnfinished()              
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/request/getAllUnfinishedForManager ->      List<Request> getAllUnfinishedForManager(UUID)
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/statushistory                      ->  EJB com.penzasoft.uldbs.service.StatusHistoryService
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/statushistory/createStatusHistory  ->      Boolean createSH(UUID, UUID, String)
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back/user                               ->  EJB com.penzasoft.uldbs.service.UserService         
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/user/getAllManagers                ->      List<User> getAllManagers()        
+11-Feb-2021 17:45:58.739 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/user/getAllUsers                   ->      List<User> getAllUsers()           
+11-Feb-2021 17:45:58.740 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/user/doLogin                       ->      LoginResult doLogin(String, String)
+11-Feb-2021 17:45:58.740 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints              POST http://localhost:8081/uldbs-back/user/register                      ->      RegisterResult register(User)      
+11-Feb-2021 17:45:58.740 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8081/uldbs-back                                    -> Pojo com.penzasoft.uldbs.Main                        
+11-Feb-2021 17:45:58.740 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8081/uldbs-back/echo                               ->      String echo()
+11-Feb-2021 17:45:58.779 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Deployment of web application archive [/home/ktepin/uldbs-server/apache-tomee-plume-8.0.5/webapps/uldbs-back.war] has finished in [4,654] ms
+11-Feb-2021 17:45:58.782 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler ["http-nio-8081"]
+11-Feb-2021 17:45:58.791 INFO [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in [4726] milliseconds
