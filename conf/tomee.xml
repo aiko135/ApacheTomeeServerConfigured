@@ -6,7 +6,7 @@
   <!-- <Deployments dir="apps" /> -->
       <Resource id="jdbc/uldbs" type="DataSource">
         JdbcDriver   org.postgresql.Driver
-        JdbcUrl  jdbc:postgresql://127.0.0.1:5432/uldbs
+        JdbcUrl  jdbc:postgresql://172.17.0.1:5432/uldbs
         UserName     postgres
         Password     postgres
     </Resource>
